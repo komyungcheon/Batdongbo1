@@ -1,0 +1,30 @@
+h1{
+    font-family: "Britannic Bold";
+}
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+input[type="number"] {
+    padding: 10px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#counter {
+    font-size: 24px;
+    margin-top: 20px;
+}
